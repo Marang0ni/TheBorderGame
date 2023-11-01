@@ -1,5 +1,5 @@
 # TheBorder
-<img align="right" width="190" height="160" src="https://github.com/Marang0ni/TheBorderGame/assets/133555915/1fbbc53f-5744-4430-b2e5-e7d6ca313606"></a>
+<img align="right" width="200" height="165" src="https://github.com/Marang0ni/TheBorderGame/assets/133555915/1fbbc53f-5744-4430-b2e5-e7d6ca313606"></a>
 
 > Este jogo foi desenvolvido como __Trabalho de Conclusão de Curso__ da ETEC de Ferraz de Vasconcelos *(todos os direitos reservados)*.
 - Primeiro projeto desenvolvido dos participantes, feito em 1 ano utilizando UNITY (versão 2021);
@@ -15,7 +15,6 @@
 
 
 <img align="right" width="384" height="216" src="https://github.com/Marang0ni/TheBorderGame/assets/133555915/c29f22cf-f0e9-4d20-8290-c7bf9b23e730"></a>
-&nbsp;
   
   O nome The Border (A Fronteira) simboliza a fronteira entre a realidade e a percepção distorcida da personagem devido à sua batalha contra a depressão. As "armadilhas" e o "invasor" que ela acredita enfrentar são uma representação das lutas mentais e emocionais que muitas vezes acompanham a depressão. Essa fronteira imaginária é onde Jullie se vê presa, incapaz de escapar das armadilhas que sua própria mente cria.
 ##
