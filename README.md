@@ -1,7 +1,8 @@
 # TheBorder
+> Este jogo foi desenvolvido como __Trabalho de Conclusão de Curso__ da ETEC de Ferraz de Vasconcelos *(todos os direitos reservados)*.
+
 <img align="right" width="200" height="165" src="https://github.com/Marang0ni/TheBorderGame/assets/133555915/1fbbc53f-5744-4430-b2e5-e7d6ca313606"></a>
 
-> Este jogo foi desenvolvido como __Trabalho de Conclusão de Curso__ da ETEC de Ferraz de Vasconcelos *(todos os direitos reservados)*.
 - Primeiro projeto desenvolvido dos participantes, feito em 1 ano utilizando UNITY (versão 2021);
 - Link para pagina no [_Itch.io_]();
 - Pagina criada da Empresa __fictícia__ [_WhiteLottus_](https://www.instagram.com/white__lottus/?hl=pt-br);
