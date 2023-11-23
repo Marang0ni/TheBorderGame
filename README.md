@@ -6,6 +6,7 @@
 - Primeiro projeto desenvolvido dos participantes, feito em 1 ano utilizando UNITY (versão 2021);
 - Link para pagina no [_Itch.io_]();
 - Pagina criada da Empresa __fictícia__ [_WhiteLottus_](https://www.instagram.com/white__lottus/?hl=pt-br);
+- Versão para Desktop & Versão BETA para Android;
 ###### Desenvolvido por 5 pessoas: Programador | Produtor | Roterista | SoundDesign | Design; 
 ##
 
